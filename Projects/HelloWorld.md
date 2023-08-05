@@ -10,3 +10,9 @@ This challange will return classic "Hello, World!" message.
 ## User Stories
 
 -  [ ] User can view "Hello, World!" message.
+
+## Example Project
+
+Try not to view this until you've developed your own solution:
+
+- [Hello, World! using GO Language](https://github.com/lukmanfreedom/exploring-go/tree/main/Learn/Hello%20World)
